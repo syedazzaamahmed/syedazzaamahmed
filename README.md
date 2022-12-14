@@ -1,5 +1,5 @@
 # Syed Azzaam Ahmed
-### syedazzaamahmed@gmail.com | +917829880886 | Bangalore, India
+#### syedazzaamahmed@gmail.com | +917829880886 | Bangalore, India
 [LinkedIn](https://linkedin.com/in/syedazzaamahmed) | [Jovian](https://jovian.ai/syedazzaamahmed) | [Github](https://github.com/syedazzaamahmed) | [Medium](https://medium.com/@syedazzaamahmed)
 
 ## EDUCATION
