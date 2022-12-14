@@ -1,13 +1,13 @@
 # Syed Azzaam Ahmed
 ### syedazzaamahmed@gmail.com | +917829880886 | Bangalore, India
-[LinkedIn](https://linkedin.com/in/syedazzaamahmed) | [Jovian](https://jovian.ai/syedazzaamahmed) | [Github](https://github.com/syedazzaamahmed) | [Medium](https://https://medium.com/@syedazzaamahmed)
+[LinkedIn](https://linkedin.com/in/syedazzaamahmed) | [Jovian](https://jovian.ai/syedazzaamahmed) | [Github](https://github.com/syedazzaamahmed) | [Medium](https://medium.com/@syedazzaamahmed)
 
 ## EDUCATION
 ### Data Science Bootcamp, Jovian                    (Mar 2021 - Ongoing)
 - Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 - Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 ### New Horizon College of Engineering, Bangalore           (2018 - 2022)
-#### B.E, Mechanical Engineering
+#### **B.E, Mechanical Engineering**
 - Courses: Machine Design, Databases & SQL, Programming with Python, Statistics and Probability
 - Highlights: Presented Research Paper at NIT Puducherry on Mini Hydro Electric Power Plant.
 ## WORK EXPERIENCE
