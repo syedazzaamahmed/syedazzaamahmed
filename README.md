@@ -20,10 +20,11 @@ I am a Data Science enthusiast. I hold a BE degree from New Horizon college of E
 - Highlights: Presented Research Paper at NIT Puducherry on Mini Hydro Electric Power Plant.
 # 💼WORK EXPERIENCE
 ### Associate - Tesco (Nov 2022 - Ongoing)
-- Identifying operational improvements and finding solutions by applying CI tools and techniques.
-- Responsible for completing tasks within agreed KPI's
 - Provide technical support to the store staff in UK and Ireland by being available to help resolve their
 queries/concerns by troubleshooting in the quickest available manner.
+- Worked on Mainframe using commands for resolving network and stock related queries.
+- Identifying operational improvements and finding solutions by applying CI tools and techniques. And
+completing tasks within agreed KPI's
 ### Internship Trainee - BEML (Ministry of Defence) (Apr-May 2022)
 - Programmed CNC machines using system software, producing components that complied with the
 requirements of the product and blueprint specification.
