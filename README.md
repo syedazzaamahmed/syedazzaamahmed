@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Science enthusiast. I hold a BE degree from New Horizon college of Engineering, Bangalore. I am motivated by the challenge of understanding data and finding patterns that can be used to improve decision making. I am passionate about learning new things and exploring different technologies. I am a quick learner and have a great problem solving ability. I am looking for a challenging role in a reputed organization where I can utilize my skills and knowledge to the fullest.
+I am a Data Science enthusiast. I hold a BE degree from New Horizon college of Engineering, Bangalore.  Successfully completed a 32-week Data Science and Machine Learning Bootcamp, which included over 600 hours of coursework, 10 coding assignments, and 3 projects focused on Web Scraping, Exploratory Data Analysis (EDA), and Machine Learning. I am motivated by the challenge of understanding data and finding patterns that can be used to improve decision making. I am passionate about learning new things and exploring different technologies. I am a quick learner and have a great problem solving ability. I am looking for a challenging role in a reputed organization where I can utilize my skills and knowledge to the fullest.
 
 🥇 HackerRank Gold Badge in Python Programming.
 
